@@ -8,12 +8,6 @@ import java.io.*;
  *     1. Perform all initializations
  *     2. Load the ByteCodes from file
  *     3. Run the virtual machine
- * 
- *     THIS FILE CANNOT BE MODIFIED. DO NOT
- *     LET ANY EXCEPTIONS REACH THE
- *     INTERPRETER CLASS. ONLY EXCEPTION TO THIS RULE IS
- *        byteCodeLoader CONSTRUCTOR WHICH IS
- *     ALREADY IMPLEMENTED.
  * </pre>
  */
 public class Interpreter {

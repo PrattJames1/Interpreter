@@ -40,8 +40,6 @@ public class CodeTable {
      * @return class name of desired byte code.
      */
     public static String getClassName(String className){
-        
         return codeTable.get(className);
-        
     }
 }
