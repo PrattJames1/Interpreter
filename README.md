@@ -1,4 +1,4 @@
-# interpreter Documentation
+# Interpreter Documentation
 
 ## James Pratt
 
